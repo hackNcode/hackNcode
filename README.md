@@ -1,58 +1,49 @@
 # Hello, I'm Vinay Varma! 👋
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
-
-🔒 Product Security Engineer/Penetration Tester with [![Experience](https://img.shields.io/badge/Industry_Experience-5.0+%20Years-blue)](https://img.shields.io/badge/Experience-5.0%20Years-blue)
-
-🎓 Currently pursuing a Master's in Cyber Security @ NYU
-
-🚀 Seeking _**Seeking Full-Time Roles and Internships/Co-Ops**_ during my Master's program.
-
-💼 Open to full-time roles starting May 2025 in Application Security, Penetration Testing, Security Engineering, GRC and more.
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" alt="Octocat Daft Punk">
+</p>
 
 ## About Me
-
-- 🔐 Penetration Tester, Part-Time Bug Hunter, and CTF Player.
-- 🌱 Learning Security Engineering and Secure System Design.
-- 👨🏻‍💻 Passionate about Open Source Security Projects.
-- ⚡ Proficient in Multi-Cloud Security, Python and Shell Scripting.
+🔒 **Product Security Engineer | Penetration Tester | CTF Player**  
+🎯 **5+ years of experience** in Product, Cloud & Infrastructure Security.  
+🎓 **Master's in Cybersecurity @ NYU** (Graduating May 2025)  
+🚀 Seeking **Full-Time Roles** in Application Security, Red Teaming, Penetration Testing, and Security Engineering. \
+🌱 Exploring **Offensive Security Engineering** and **Secure System Design**. \
+⚡ Skilled in **Multi-Cloud Security**, **Python**, and **Shell Scripting**.  
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
 ---
 
-📫 Depending on what you're wanting, the best way to reach me:
+## Get in Touch
 
-<em>Follow or Contact Me</em>
-<p>
- <a href="https://twitter.com/hack_n_code"><img src="https://img.shields.io/twitter/follow/hack_n_code.svg?style=flat-square&label=Follow%20%40hack_n_code&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=15&color=lightgray" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/vinay-varma/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<em>follow or contact me</em>
 
+[![Follow on X](https://img.shields.io/badge/follow%20@hack__n__code-1DA1F2?style=for-the-badge&logo=x&logoColor=white&color=14171A)](https://twitter.com/hack_n_code)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/vinay-varma/)
+
+[![Website](https://img.shields.io/badge/website-hackncode.com-0078D7?style=for-the-badge&logo=internet-explorer&logoColor=white&color=0078D7)](https://www.hackncode.com/)
+[![HacknCode Blog](https://img.shields.io/badge/hackncode%20blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF)](https://blog.hackncode.com/)
+[![HacknCode Notes](https://img.shields.io/badge/hackncode%20notes-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF)](https://notes.hackncode.com/)
+
+
+
+<div>
+<a href="https://www.hackthebox.eu/profile/30443">
+    <img src="https://www.hackthebox.eu/badge/image/30443" alt="HackTheBox Profile">
+</a>
 </div>
-
-<a href="https://www.hackthebox.eu/profile/30443"><img src="https://www.hackthebox.eu/badge/image/30443" alt="HackerBox"></a>
-</div>
-
-
-[![Website shields.io](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=blue&up_message=hackncode.com&logo=github&url=http%3A%2F%2Fshields.io)](https://www.hackncode.com/)
-
-
-<a href="https://blog.hackncode.com/"><img src="https://img.shields.io/badge/Personal Blog-FF5722?style=for-the-badge&style=flat&logo=Blogger&logoColor=white" alt="Personal Tech Blog"></a>
-
-</div>
-     
- 
----
-⭐️ From [@hackncode](https://github.com/hackncode)
-
-
-<!--  PROFILES VIEWS -->
-
-🌱 **Profile Views**
- 
-![visitors](https://profile-counter.glitch.me/hackncode/count.svg?align=center)
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ---
+
+## Profile Stats
+
+🌱 **Profile Views**  
+![Visitors](https://profile-counter.glitch.me/hackncode/count.svg?align=center)
+
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+---
+
+✨ From [@hackncode](https://github.com/hackncode)
